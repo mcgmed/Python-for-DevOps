@@ -17,7 +17,7 @@ test:
 
 build:
 	# build container
-	docker build -t deploy-fastapi .
+	# docker build -t deploy-fastapi .
 
 run:
 	# run docker
@@ -25,3 +25,10 @@ run:
 
 deploy:
 	# deploy
+	aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 121382437955.dkr.ecr.us-east-1.amazonaws.com
+	docker build -t fastapi-wiki .
+	docker tag fastapi-wiki:latest 121382437955.dkr.ecr.us-east-1.amazonaws.com/fastapi-wiki:latest
+	docker push 121382437955.dkr.ecr.us-east-1.amazonaws.com/fastapi-wiki:latest
+
+
+all: install lint test deploy
