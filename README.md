@@ -1,6 +1,6 @@
 [![Python application test with Github Actions](https://github.com/mcgmed/Python-for-DevOps/actions/workflows/devops.yml/badge.svg)](https://github.com/mcgmed/Python-for-DevOps/actions/workflows/devops.yml)
 
-[![Python application test with Github Actions](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiS0l6MXBYNW5qUGMwdkp2WEd2aHkyd3cxVnFOSnA2eFpmRkdpWlpQWnMwdkVuMGxiMlA1dXg1MDg5Tk43cit0MFEzcDNlYzZnZ2JKMUM0R3FPT2RrbDVzPSIsIml2UGFyYW1ldGVyU3BlYyI6InBzNTdGc2ZRamV2djE0OGQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+(https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiS0l6MXBYNW5qUGMwdkp2WEd2aHkyd3cxVnFOSnA2eFpmRkdpWlpQWnMwdkVuMGxiMlA1dXg1MDg5Tk43cit0MFEzcDNlYzZnZ2JKMUM0R3FPT2RrbDVzPSIsIml2UGFyYW1ldGVyU3BlYyI6InBzNTdGc2ZRamV2djE0OGQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 # Python-for-DevOps
 
